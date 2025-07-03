@@ -18,7 +18,7 @@ This is a responsive FAQ accordion component built using React and Tailwind CSS.
 
 ## 📸 Screenshot
 
-![Screenshot](./screenshot.png)
+![Screenshot](./src/desktop-design.jpg)
 
 ## 🚀 Getting Started
 
